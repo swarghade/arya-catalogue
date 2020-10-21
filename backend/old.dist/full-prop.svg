@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 174.94">
+  <title>full-prop</title>
+  <g id="left-pipe">
+    <path d="M0,320H94.41c174.8,5,72.56-120.5,153.15-128L970,186h0" transform="translate(0 -147)" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3.6px"/>
+  </g>
+  <g id="instrument">
+    <path d="M614.7,180h40.83l2.12,2.4V194l-2.12,2.4H614.7l-2.12-2.4V182.42Zm22.08-28v5.42h4l1,1.16v2.77l-1,1.13H629.49l-1-1.13v-2.77l1-1.16h4v-5.42H619.13l-1-1.16v-2.74l1-1.16h14.68a1.65,1.65,0,0,0,1.53,1.19h0a1.66,1.66,0,0,0,1.55-1.19h14.18l1,1.16v2.74l-1,1.16Zm-6.27,11.69h9.2v9.83h1l1,1.13v4H628.48v-4l1-1.13h1Z" transform="translate(0 -147)" style="fill: #fefefe"/>
+  </g>
+  <g id="right-pipe">
+    <path d="M1920,196" transform="translate(0 -147)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.6px"/>
+    <line x1="970" y1="39" x2="1920" y2="39" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3.6px"/>
+  </g>
+</svg>

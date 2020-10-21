@@ -1,0 +1,567 @@
+{
+  "3": {
+    "name": "37 deg Flare Fittings",
+    "dataList": [
+      {
+        "name": "SLEEVE",
+        "design": "AFF/SE",
+        "img": "require('@/assets/3/1.png')",
+        "bg": "",
+        "imperial": "require('@/assets/3/1T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "1B.png"
+      },
+      {
+        "name": "UNION_TEE",
+        "design": "AFF/UT",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/5T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "5B.png"
+      },
+      {
+        "name": "CROSS",
+        "design": "AFF/C",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/6T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "6B.png"
+      },
+      {
+        "name": "BULKHEAD_UNION",
+        "design": "AFF/BU",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/7T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "7B.png"
+      },
+      {
+        "name": "BULKHEAD_ELBOW",
+        "design": "AFF/BE",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/8T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "8B.png"
+      },
+      {
+        "name": "BULKHEAD_BRANCH_TEE",
+        "design": "AFF/BBT",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/9T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "9B.png"
+      },
+      {
+        "name": "45�_BULKHEAD_ELBOW",
+        "design": "AFF/BE45",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/10T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "10B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MC-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/11T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "11B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MC-ME",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/12T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "12B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MC-GE",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/13T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "13B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MC-R",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/14T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "14B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MC-UO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/15T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "15B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MC-MO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/16T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "16B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MC-GO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/17t.png')",
+        "metric": "",
+        "description": "",
+        "bp": "17b.png"
+      },
+      {
+        "name": "FEMALE_CONNECTOR",
+        "design": "AFF/FC-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/18t.png')",
+        "metric": "",
+        "description": "",
+        "bp": "18b.png"
+      },
+      {
+        "name": "FEMALE_CONNECTOR",
+        "design": "AFF/FC-G",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/19T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "19B.png"
+      },
+      {
+        "name": "FEMALE_ELBOW",
+        "design": "AFF/FE-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/20T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "20B.png"
+      },
+      {
+        "name": "FEMALE_ELBOW",
+        "design": "AFF/FE-G",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/21T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "21B.png"
+      },
+      {
+        "name": "FEMALE_RUN_TEE",
+        "design": "AFF/FRT-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/22T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "22B.png"
+      },
+      {
+        "name": "FEMALE_RUN_TEE",
+        "design": "AFF/FRT-G",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/23T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "23B.png"
+      },
+      {
+        "name": "FEMALE_BRANCH_TEE",
+        "design": "AFF/FBT-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/24T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "24B.png"
+      },
+      {
+        "name": "FEMALE_BRANCH_TEE",
+        "design": "AFF/FBT-G",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/25T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "25B.png"
+      },
+      {
+        "name": "FEMALE_BULKHEAD_CONNECTION",
+        "design": "AFF/FBC-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/26T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "26b.png"
+      },
+      {
+        "name": "FEMALE_BULKHEAD_CONNECTION",
+        "design": "AFF/FBC-G",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/27T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "27B.png"
+      },
+      {
+        "name": "MALE_ELBOW",
+        "design": "AFF/ME-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/28T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "28B.png"
+      },
+      {
+        "name": "UNKNOWN",
+        "design": "AFF/ME-R",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/29T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "29B.png"
+      },
+      {
+        "name": "45�_MALE_ELBOW",
+        "design": "AFF/ME45-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/30T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "30B.png"
+      },
+      {
+        "name": "45�_MALE_ELBOW",
+        "design": "AFF/ME45-R",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/31T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "31B.png"
+      },
+      {
+        "name": "MALE_RUN_TEE",
+        "design": "AFF/MRT-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/32T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "32B.png"
+      },
+      {
+        "name": "MALE_BRANCH_TEE",
+        "design": "AFF/MBT-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/33T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "33B.png"
+      },
+      {
+        "name": "REDUCING_ADAPTER",
+        "design": "AFF/RA",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/34TI.png')",
+        "metric": "require('@/assets/3/34TM.png')",
+        "description": "",
+        "bp": "34B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MCSL-N",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/35T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "35B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MCSL-GE",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/36T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "36B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MCSL-R",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/37T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "37B.png"
+      },
+      {
+        "name": "MALE_CONNCTOR",
+        "design": "AFF/MCSL-ME",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/38T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "38B.png"
+      },
+      {
+        "name": "MALE_CONNECTOR",
+        "design": "AFF/MCSL-UO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/39T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "39B.png"
+      },
+      {
+        "name": "ADJUSTABEL_ELBOW",
+        "design": "AFF/AESL",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/40T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "40B.png"
+      },
+      {
+        "name": "45�_ADJUSTABEL_ELBOW",
+        "design": "AFF/AE45SL",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/41T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "41B.png"
+      },
+      {
+        "name": "ADJUSTABEL_RUN_TEE",
+        "design": "AFF/ARTSL",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/42T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "42B.png"
+      },
+      {
+        "name": "ADJUSTABEL_MALE_ELBOW",
+        "design": "AFF/AME-GO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/44T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "44B.png"
+      },
+      {
+        "name": "ADJUSTABEL_MALE_ELBOW",
+        "design": "AFF/AME-MO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/45T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "45B.png"
+      },
+      {
+        "name": "ADJUSTABEL_MALE_ELBOW",
+        "design": "AFF/AME-UO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/46T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "46B.png"
+      },
+      {
+        "name": "45�_ADJUSTABEL_MALE_ELBOW",
+        "design": "AFF/AME45-MO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/47T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "47B.png"
+      },
+      {
+        "name": "45�_ADJUSTABLE_MALE_ELBOW",
+        "design": "AFF/AME45-GO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/48T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "48B.png"
+      },
+      {
+        "name": "45�_ADJUSTABLE_MALE_ELBOW",
+        "design": "AFF/AME45-UO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/49T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "49B.png"
+      },
+      {
+        "name": "ADJUSTABLE_MALE_RUN_TEE",
+        "design": "AFF/AMRT-GO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/50T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "50B.png"
+      },
+      {
+        "name": "ADJUSTABLE_MALE_RUN_TEE",
+        "design": "AFF/AMRT-MO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/51T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "51B.png"
+      },
+      {
+        "name": "ADJUSTABLE_MALE_RUN_TEE",
+        "design": "AFF/AMRT-UO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/52T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "52B.png"
+      },
+      {
+        "name": "ADJUSTABLE_MALE_BRANCH_TEE",
+        "design": "AFF/AM8T-GO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/53T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "53B.png"
+      },
+      {
+        "name": "ADJUSTABLE_MALE_BRANCH_TEE",
+        "design": "AFF/AMBT-MO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/54T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "54B.png"
+      },
+      {
+        "name": "ADJUSTABLE_MALE_BRANCH_TEE",
+        "design": "AFF/AMBT-UO",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/55T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "55B.png"
+      },
+      {
+        "name": "GAUGE_COUPLING",
+        "design": "AFF/GC-G",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/56T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "56B.png"
+      },
+      {
+        "name": "FEMALE_GAUGE_COUPLING",
+        "design": "AFF/FGC-G",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/57T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "57B.png"
+      },
+      {
+        "name": "BULKHEAD_LOCKNUT",
+        "design": "AFF/BLN",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/58T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "58b.png"
+      },
+      {
+        "name": "TUBE_CAP",
+        "design": "AFF/TC",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/59T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "59B.png"
+      },
+      {
+        "name": "PLUG",
+        "design": "AFF/P",
+        "img": "",
+        "bg": "",
+        "imperial": "require('@/assets/3/60T.png')",
+        "metric": "",
+        "description": "",
+        "bp": "60B.png"
+      }
+    ]
+  }
+}

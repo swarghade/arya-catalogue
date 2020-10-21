@@ -1,0 +1,55 @@
+//const express = require('express')
+const helmet = require('helmet')
+
+
+const config = {
+       contentSecurityPolicy: {
+              directives: {
+                     defaultSrc: ["'self'"],
+                     styleSrc: ["'self'","'unsafe-inline'"],
+                     scriptSrc: ["'self'","'unsafe-inline'"],
+                     imgSrc: ["'self'", "'https://cdn.jsdelivr.net'", "'https://fonts.googleapis.com'","data:","https:"],
+                     connectSrc: ["'self'","'eejrecruitment.com'" ]
+              }
+              
+       },
+       crossdomain: true,
+       expectCt: true,
+       featurePolicy: {
+              features: {
+                     notifications: ["'self'"]
+              }
+       },
+       hpkg: true,
+       noCache: true,
+       referrerPolicy: true
+}
+
+module.exports = helmet(config)//const express = require('express')
+const helmet = require('helmet')
+
+
+const config = {
+       contentSecurityPolicy: {
+              directives: {
+                     defaultSrc: ["'self'"],
+                     styleSrc: ["'self'","'unsafe-inline'"],
+                     scriptSrc: ["'self'","'unsafe-inline'"],
+                     imgSrc: ["'self'","'data:'"],
+                     connectSrc: ["'self'","'eejrecruitment.com'" ]
+              }
+              
+       },
+       crossdomain: true,
+       expectCt: true,
+       featurePolicy: {
+              features: {
+                     notifications: ["'self'"]
+              }
+       },
+       hpkg: true,
+       noCache: true,
+       referrerPolicy: true
+}
+
+module.exports = helmet(config)

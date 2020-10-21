@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1135.5 158.92">
+  <title>lll</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <path d="M.15,116H558c14,0,22-3.76,29.4-16.25l28.06-47.11c8.18-13.66,15.17-17.72,30.21-17.72l489.83-.14" transform="translate(0 -18.63)" style="fill: none;stroke: #898989;stroke-miterlimit: 10;stroke-width: 2.0125982761383057px"/>
+      <path d="M0,175.55H156.3c13.19,0,20.69-3.76,27.77-16.24l26.37-47.12c7.78-13.66,14.3-17.73,28.46-17.73l896.6-1.87" transform="translate(0 -18.63)" style="fill: none;stroke: #fefefe;stroke-miterlimit: 10;stroke-width: 3.99685001373291px"/>
+      <polygon points="858.7 0 923 0 926.36 3.22 926.36 27.92 923 31.14 858.7 31.14 855.48 27.92 855.48 3.22 858.7 0" style="fill: #727271"/>
+      <path d="M842.32,20.64H850V27h3.09v14.5H850v6.3h-7.65l-3-2.82V23.45ZM928.77,27h3V20.64h7.65l3,2.81V44.93l-3,2.82h-7.65v-6.3h-3Z" transform="translate(0 -18.63)" style="fill: #727271"/>
+      <path d="M336.27,78.36h71.82l3.76,4V102l-3.76,4H336.27l-3.76-4V82.39ZM375.07,31v9.26h7l1.74,1.88v4.7l-1.74,1.88H362.31l-1.88-1.88v-4.7l1.88-1.88h7V31H344.05l-1.74-1.88V24.4l1.74-1.88h25.78a3.08,3.08,0,0,0,2.82,2h0a3,3,0,0,0,2.68-2h25l1.75,1.88v4.7L400.3,31Zm-11,19.88h16.26V67.38h1.74l1.74,2v6.72H360.43V69.39l1.88-2h1.74Z" transform="translate(0 -18.63)" style="fill: #fefefe"/>
+    </g>
+  </g>
+</svg>
